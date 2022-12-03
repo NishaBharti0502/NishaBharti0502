@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmatrix&psig=AOvVaw2XM0snBYIYmvoarq-j1Ung&ust=1670160927972000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKi1vLnI3fsCFQAAAAAdAAAAABAE ]
+
 <h1 align="center">Hi 👋, I'm Nisha Bharti</h1>
 <h3 align="center">A passionate coder from India</h3>
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nisha0502bharti@gmail.com**
 
-- ⚡ Fun fact **I m shy.**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
