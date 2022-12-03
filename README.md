@@ -5,8 +5,7 @@
 - 💬 Ask me about **DSA, COA, Discrete Maths, Networking..etc**
 
 - 📫 How to reach me **nisha0502bharti@gmail.com**
-
-- 
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
